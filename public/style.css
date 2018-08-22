@@ -32,3 +32,11 @@ h2
 {
 	width: 100%;
 }
+p
+{
+	margin: 2px 2px;
+}
+p strong
+{
+	color: blue;
+}
